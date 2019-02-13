@@ -9,6 +9,7 @@ div {
   font-family: Helvetica Neue;
   background: White;
   padding: 30px;
+  width: 700px;
 }
 
 /* ID selector to select the element with id 'main-header' */
